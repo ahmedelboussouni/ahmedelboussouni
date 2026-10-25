@@ -186,17 +186,17 @@ El Kelaâ des Sraghna, Morocco
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelboussouni&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelboussouni&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelboussouni&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedelboussouni&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelboussouni&layout=compact&theme=radical&langs_count=8)
 
 </div>
+
 
 ---
 
