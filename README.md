@@ -1,4 +1,4 @@
-![GitHub Cover](cover.png)
+![GitHub Cover](Ahmed%20Elboussouni%20Cybersecurity%20Tech%20Banner.png)
 
 # 👨‍💻 Ahmed ELBOUSSOUNI
 
