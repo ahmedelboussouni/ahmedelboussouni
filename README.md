@@ -171,8 +171,4 @@ EST Guelmim, Morocco
 
 </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aelboussouni.netlify.app/)
 
-### ⚡ Learn • Build • Secure ⚡
-
-</div>
