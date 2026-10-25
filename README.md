@@ -27,7 +27,7 @@ Interested in developing technical skills, exploring new technologies, and build
 
 ### 🌍 Connect With Me
 
-💼 **LinkedIn:** Ahmed Elboussouni
+💼 **LinkedIn:** [Ahmed Elboussouni](https://www.linkedin.com/in/ahmedelboussouni/)
 
 🐙 **GitHub:** [ahmedelboussouni](https://github.com/ahmedelboussouni)
 
