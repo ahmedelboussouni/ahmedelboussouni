@@ -1,16 +1,38 @@
-## Hi there 👋
+![GitHub Cover](cover.png)
 
-<!--
-**ahmedelboussouni/ahmedelboussouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Ahmed ELBOUSSOUNI
 
-Here are some ideas to get you started:
+### 🎓 Cybersecurity Bachelor's Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about **Cybersecurity, Computer Networks, Cloud Computing, and IT Security**.
+
+Interested in developing technical skills, exploring new technologies, and building practical projects.
+
+---
+
+### 🛡️ Areas of Interest
+
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Computer Networks & Infrastructure
+- ☁️ Cloud Computing
+- 🛡️ IT Security & Secure Systems
+- 💻 Programming: Python, Java, C++
+- 🔎 Penetration Testing
+
+### 🚀 My Projects
+
+🌐 **[Personal Portfolio](https://ahmedelboussouni.netlify.app/)**
+
+💻 **[GitHub Projects](https://github.com/ahmedelboussouni?tab=repositories)**
+
+### 🌍 Connect With Me
+
+💼 **LinkedIn:** Ahmed Elboussouni
+
+🐙 **GitHub:** [ahmedelboussouni](https://github.com/ahmedelboussouni)
+
+🌐 **Portfolio:** [ahmedelboussouni.netlify.app](https://ahmedelboussouni.netlify.app/)
+
+---
+
+⭐ *Always learning, improving, and exploring the world of technology.*
