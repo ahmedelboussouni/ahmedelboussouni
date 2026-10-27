@@ -1,6 +1,4 @@
-
-
-<div align="center">
+ <div align="center">
 
 ![GitHub Cover](Ahmed%20Elboussouni%20Cybersecurity%20Tech%20Banner.png)
 
@@ -10,7 +8,7 @@
 
 **🎓 Bachelor's Student — Networks, Cloud & Security**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aelboussouni.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedelboussouni.github.io/Portfolio-Ahmed-ELBOUSSOUNI/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelboussouni1@gmail.com)
 
@@ -92,6 +90,7 @@ SIEM deployment, log analysis, security monitoring, detection rules, incident an
 ## 💼 Professional Experience
 
 ### 🛡️ Cybersecurity Internship — OCP Maintenance Solutions
+
 **📍 Safi, Morocco | April – May 2026**
 
 - Deployed and administered Wazuh SIEM.
@@ -102,6 +101,7 @@ SIEM deployment, log analysis, security monitoring, detection rules, incident an
 - Simulated attacks and analyzed security incidents.
 
 ### 💻 IT Internship — OCP Group
+
 **📍 Safi, Morocco | June 2025**
 
 - Designed a database for trainee management.
@@ -112,20 +112,24 @@ SIEM deployment, log analysis, security monitoring, detection rules, incident an
 ## 🚀 Academic Projects
 
 ### 🔐 Secure Enterprise Network
+
 - DHCP, DNS, FTP and Mail Server configuration.
 - Zabbix network monitoring.
 - Firewall implementation.
 - DoS/DDoS attack simulation and analysis.
 
 ### 🌐 ICMP Security Analysis
+
 - ICMP protocol study.
 - Network attack simulation and analysis.
 
 ### 🛡️ DHCP Security with GNS3
+
 - DHCP attack simulation.
 - Network security configuration.
 
 ### 💻 Web & Software Development
+
 - Front-end web application.
 - Client/server calculator application.
 - Trainee management web application.
@@ -159,7 +163,7 @@ EST Guelmim, Morocco
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF3333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aelboussouni.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF3333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedelboussouni.github.io/Portfolio-Ahmed-ELBOUSSOUNI/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
@@ -170,5 +174,3 @@ EST Guelmim, Morocco
 ### 🔐 Learn • Build • Secure
 
 </div>
-
-
